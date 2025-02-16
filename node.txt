@@ -1,0 +1,22 @@
+cài đặt nodejs (bản lts):
+- version 18+ (kiểm tra bằng "node -v")
+- npm i -g @nestjs/cli (cài đặt cli cho nestjs)
+
+create a nestjs app:
+- nest new lesson01
+    - chọn npm
+
+running the nestjs app:
+- npm run start:dev
+
+kiểm tra api có thể cài extensions:
+- thunder client
+
+creating a users module:
+- nest g module users
+
+creating a users controller:
+- nest g controller users
+
+creating a users provider:
+- nest g service users
