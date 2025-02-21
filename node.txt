@@ -20,3 +20,9 @@ creating a users controller:
 
 creating a users provider:
 - nest g service users
+
+làm việc với API:
+- npm i @nestjs/mapped-types -D
+
+class validators (giống bắt lỗi ở spring boot):
+- npm i class-validator class-transformer - D
